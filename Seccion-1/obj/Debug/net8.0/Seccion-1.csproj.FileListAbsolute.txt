@@ -1,0 +1,14 @@
+c:\Ejercicio-práctico-individual\Seccion-1\bin\Debug\net8.0\Seccion-1.exe
+c:\Ejercicio-práctico-individual\Seccion-1\bin\Debug\net8.0\Seccion-1.deps.json
+c:\Ejercicio-práctico-individual\Seccion-1\bin\Debug\net8.0\Seccion-1.runtimeconfig.json
+c:\Ejercicio-práctico-individual\Seccion-1\bin\Debug\net8.0\Seccion-1.dll
+c:\Ejercicio-práctico-individual\Seccion-1\bin\Debug\net8.0\Seccion-1.pdb
+c:\Ejercicio-práctico-individual\Seccion-1\obj\Debug\net8.0\Seccion-1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Ejercicio-práctico-individual\Seccion-1\obj\Debug\net8.0\Seccion-1.AssemblyInfoInputs.cache
+c:\Ejercicio-práctico-individual\Seccion-1\obj\Debug\net8.0\Seccion-1.AssemblyInfo.cs
+c:\Ejercicio-práctico-individual\Seccion-1\obj\Debug\net8.0\Seccion-1.csproj.CoreCompileInputs.cache
+c:\Ejercicio-práctico-individual\Seccion-1\obj\Debug\net8.0\Seccion-1.dll
+c:\Ejercicio-práctico-individual\Seccion-1\obj\Debug\net8.0\refint\Seccion-1.dll
+c:\Ejercicio-práctico-individual\Seccion-1\obj\Debug\net8.0\Seccion-1.pdb
+c:\Ejercicio-práctico-individual\Seccion-1\obj\Debug\net8.0\Seccion-1.genruntimeconfig.cache
+c:\Ejercicio-práctico-individual\Seccion-1\obj\Debug\net8.0\ref\Seccion-1.dll
